@@ -1,2 +1,3 @@
 Oh boy I hope no conflicts of merging occur
-I don't wanna edit the same line in both files
+But if it were to happen
+I wouldn't wanna edit the same line in both files
